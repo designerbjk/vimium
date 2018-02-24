@@ -1,0 +1,2 @@
+# vimium
+config vimium
