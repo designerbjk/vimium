@@ -1,31 +1,15 @@
 {
-  "settingsVersion": "1.63",
+  "settingsVersion": "1.64.6",
   "exclusionRules": [
     {
       "pattern": "https?://mail.google.com/*",
-      "passKeys": ""
-    },
-    {
-      "pattern": "https?://www.youtube.com/*",
-      "passKeys": ">"
-    },
-    {
-      "pattern": "https?://www.youtube.com/*",
-      "passKeys": "<"
-    },
-    {
-      "pattern": "https?://earth.google.com/*",
-      "passKeys": ""
-    },
-    {
-      "pattern": "https?://earth.google.com/*",
       "passKeys": ""
     }
   ],
   "filterLinkHints": false,
   "waitForEnterForFilteredHints": true,
   "hideHud": false,
-  "keyMappings": "# Insert your preferred key mappings here.\nmap d scrollPageUp\nmap s scrollPageDown\nmap w scrollDown\nmap e scrollUp\nmap a goBack",
+  "keyMappings": "# Insert your preferred key mappings here.\nmap s scrollPageDown\nmap d scrollPageUp\nmap w scrollDown\nmap e scrollUp\nmap ㄴ scrollPageDown\nmap ㅇscrollPageUp\nmap ㅈscrollDown\nmap a goBack\nmap ㅁ previousTab\nunmap x\nmap ㄷ scrollUp",
   "linkHintCharacters": "sadfjklewcmpgh",
   "linkHintNumbers": "0123456789",
   "newTabUrl": "about:newtab",
